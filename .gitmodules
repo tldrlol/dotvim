@@ -1,0 +1,9 @@
+[submodule "pack/dk/start/vim-fugitive"]
+	path = pack/dk/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/dk/start/vim-surround"]
+	path = pack/dk/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/dk/start/vim-vinegar"]
+	path = pack/dk/start/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar
