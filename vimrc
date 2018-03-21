@@ -90,7 +90,7 @@ let g:nofrils_heavycomments=1
 let g:nofrils_heavylinenumbers=1
 
 "colorscheme gruvbox
-"colorscheme jellybeans
+colorscheme jellybeans
 "colorscheme nofrils-dark
 "colorscheme tender
 
