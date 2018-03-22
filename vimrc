@@ -2,7 +2,9 @@
 
 " sane defaults
 set nocompatible
+set hidden
 set history=2048
+set backspace=eol,indent,start
 set ignorecase smartcase incsearch
 set path+=** " enables recursive :find
 
