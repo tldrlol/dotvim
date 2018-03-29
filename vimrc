@@ -11,7 +11,7 @@ set path+=** " enables recursive :find
 " ui
 set ruler
 set guioptions= guicursor+=a:blinkon0
-set wildmenu wildmode=longest,full
+set wildmenu wildmode=full
 
 " modern editing experience
 set expandtab shiftwidth=2 softtabstop=2 tabstop=2
@@ -91,9 +91,13 @@ let g:gruvbox_contrast_dark='hard'
 let g:nofrils_heavycomments=1
 let g:nofrils_heavylinenumbers=1
 
+set background=dark
+"colorscheme base16-tomorrow-night
+colorscheme base16-atelier-plateau
 "colorscheme gruvbox
-colorscheme jellybeans
+"colorscheme jellybeans
+"colorscheme lucius
 "colorscheme nofrils-dark
 "colorscheme tender
 
-set guifont=consolas:h11
+set guifont=consolas:h9

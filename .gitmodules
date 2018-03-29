@@ -22,3 +22,6 @@
 [submodule "pack/dk/start/tabular"]
 	path = pack/dk/start/tabular
 	url = https://github.com/godlygeek/tabular
+[submodule "pack/dk/start/Color-Scheme-Explorer"]
+	path = pack/dk/start/Color-Scheme-Explorer
+	url = https://github.com/vim-scripts/Color-Scheme-Explorer
