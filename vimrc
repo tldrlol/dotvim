@@ -92,12 +92,12 @@ let g:nofrils_heavycomments=1
 let g:nofrils_heavylinenumbers=1
 
 set background=dark
-"colorscheme base16-tomorrow-night
-colorscheme base16-atelier-plateau
+"colorscheme base16-atelier-plateau
+colorscheme base16-tomorrow-night
 "colorscheme gruvbox
 "colorscheme jellybeans
 "colorscheme lucius
 "colorscheme nofrils-dark
 "colorscheme tender
 
-set guifont=consolas:h9
+set guifont=consolas:h10
