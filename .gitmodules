@@ -25,3 +25,6 @@
 [submodule "pack/dk/start/Color-Scheme-Explorer"]
 	path = pack/dk/start/Color-Scheme-Explorer
 	url = https://github.com/vim-scripts/Color-Scheme-Explorer
+[submodule "pack/dk/start/vim-unimpaired"]
+	path = pack/dk/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
