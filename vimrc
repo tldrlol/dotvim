@@ -6,12 +6,16 @@ set hidden
 set history=2048
 set backspace=eol,indent,start
 set ignorecase smartcase incsearch
-set path+=** " enables recursive :find
+set path+=**
 
 " ui
 set ruler
 set guioptions= guicursor+=a:blinkon0
 set wildmenu wildmode=full
+
+" font rendering
+set encoding=utf-8
+set renderoptions=type:directx,gamma:1.0,contrast:1.0,level:1,geom:1,renmode:3,taamode:1
 
 " modern editing experience
 set expandtab shiftwidth=2 softtabstop=2 tabstop=2
@@ -71,8 +75,7 @@ cnoremap <c-p> <up>
 
 augroup language_settings
   autocmd!
-  autocmd FileType c,cpp   setlocal et sts=4 sw=4 ts=4
-  autocmd FileType haskell setlocal fp=stylish-haskell
+  autocmd FileType haskell setlocal ai fp=stylish-haskell
 augroup end
 
 
@@ -94,11 +97,12 @@ let g:nofrils_heavylinenumbers=1
 set background=dark
 "colorscheme base16-atelier-plateau
 "colorscheme base16-tomorrow-night
+"colorscheme dk-inkpot
+colorscheme dk-visualstudio
 "colorscheme gruvbox
-colorscheme inkpot-dk
 "colorscheme jellybeans
 "colorscheme lucius
 "colorscheme nofrils-dark
 "colorscheme tender
 
-set guifont=consolas:h10
+set guifont=consolas:h11

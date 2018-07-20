@@ -14,7 +14,7 @@ if exists("syntax_on")
    syntax reset
 endif
 
-let colors_name = "inkpot-dk"
+let colors_name = "dk-inkpot"
 
 " map a urxvt cube number to an xterm-256 cube number
 fun! <SID>M(a)
