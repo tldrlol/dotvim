@@ -1,0 +1,11 @@
+" sane defaults
+set ignorecase smartcase incsearch
+
+" working copy/paste
+set clipboard=unnamed
+
+" easy <Esc>
+cnoremap jk <Esc>
+cnoremap kj <Esc>
+inoremap jk <Esc>
+inoremap kj <Esc>

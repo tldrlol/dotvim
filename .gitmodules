@@ -28,3 +28,6 @@
 [submodule "pack/dk/start/vim-unimpaired"]
 	path = pack/dk/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
+[submodule "pack/dk/start/purescript-vim"]
+	path = pack/dk/start/purescript-vim
+	url = https://github.com/purescript-contrib/purescript-vim

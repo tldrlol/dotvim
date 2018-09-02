@@ -75,7 +75,8 @@ cnoremap <c-p> <up>
 
 augroup language_settings
   autocmd!
-  autocmd FileType haskell setlocal ai fp=stylish-haskell
+  autocmd FileType haskell  setlocal ai fp=stylish-haskell
+  autocmd FileType markdown setlocal spell tw=72
 augroup end
 
 
