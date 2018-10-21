@@ -34,7 +34,7 @@ else
 endif
 
 " 24-bit color support
-if has("termguicolors") && &term =~ '256color'
+if has("termguicolors") && &term =~ '-256color$'
   set termguicolors
   set t_8f=[38;2;%lu;%lu;%lum
   set t_8b=[48;2;%lu;%lu;%lum
