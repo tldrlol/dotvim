@@ -37,3 +37,6 @@
 [submodule "pack/dk/start/vim-toml"]
 	path = pack/dk/start/vim-toml
 	url = https://github.com/cespare/vim-toml
+[submodule "pack/dk/start/typescript-vim"]
+	path = pack/dk/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim

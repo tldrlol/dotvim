@@ -106,4 +106,4 @@ colorscheme jellybeans
 "colorscheme nofrils-dark
 "colorscheme tender
 
-set guifont=consolas:h11
+set guifont=consolas:h10
