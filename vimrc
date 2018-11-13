@@ -4,13 +4,15 @@
 set nocompatible
 set hidden
 set history=2048
+set cryptmethod=blowfish2
 set backspace=eol,indent,start
 set ignorecase smartcase incsearch
 set path+=**
 
 " ui
 set ruler
-set guioptions= guicursor+=a:blinkon0
+set guioptions=
+set guicursor+=a:blinkon0
 set wildmenu wildmode=full
 
 " font rendering
