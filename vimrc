@@ -99,11 +99,12 @@ let g:nofrils_heavylinenumbers=1
 
 set background=dark
 "colorscheme base16-atelier-plateau
+colorscheme base16-solarized-light
 "colorscheme base16-tomorrow-night
 "colorscheme dk-inkpot
 "colorscheme dk-visualstudio
 "colorscheme gruvbox
-colorscheme jellybeans
+"colorscheme jellybeans
 "colorscheme lucius
 "colorscheme nofrils-dark
 "colorscheme tender
