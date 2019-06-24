@@ -28,15 +28,15 @@
 [submodule "pack/dk/start/vim-unimpaired"]
 	path = pack/dk/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
-[submodule "pack/dk/start/purescript-vim"]
-	path = pack/dk/start/purescript-vim
-	url = https://github.com/purescript-contrib/purescript-vim
-[submodule "pack/dk/start/psc-ide-vim"]
-	path = pack/dk/start/psc-ide-vim
-	url = https://github.com/FrigoEU/psc-ide-vim/
 [submodule "pack/dk/start/vim-toml"]
 	path = pack/dk/start/vim-toml
 	url = https://github.com/cespare/vim-toml
 [submodule "pack/dk/start/typescript-vim"]
 	path = pack/dk/start/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim
+[submodule "pack/dk/start/purescript-vim"]
+	path = pack/dk/start/purescript-vim
+	url = https://github.com/raichoo/purescript-vim
+[submodule "pack/dk/start/psc-ide-vim"]
+	path = pack/dk/start/psc-ide-vim
+	url = https://github.com/FrigoEU/psc-ide-vim
