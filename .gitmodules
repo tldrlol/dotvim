@@ -37,9 +37,6 @@
 [submodule "pack/dk/start/purescript-vim"]
 	path = pack/dk/start/purescript-vim
 	url = https://github.com/raichoo/purescript-vim
-[submodule "pack/dk/start/psc-ide-vim"]
-	path = pack/dk/start/psc-ide-vim
-	url = https://github.com/FrigoEU/psc-ide-vim
 [submodule "pack/dk/start/dhall-vim"]
 	path = pack/dk/start/dhall-vim
 	url = https://github.com/vmchale/dhall-vim
